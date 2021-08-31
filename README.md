@@ -6,10 +6,10 @@ A Google Chrome browser extenstion to redirect user to the Covid-19 health relat
 
 
 
-###How to install
+### How to install
 This extension is under active development and can only be installed as an unpacked version. Follow these steps to install the extension:
 1. Checkout or download the source of the extension, and save to your computer.
-2. Go to chrome://extensions from your Google Chrome browser.
-3. Click on the Load Unpacked button at the top-right corner.
-4. Select the directory where the downloaded extension is.
+2. Go to "chrome://extensions" from your Google Chrome browser.
+5. Click on the Load Unpacked button at the top-right corner.
+6. Select the directory where the downloaded extension is.
 
